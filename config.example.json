@@ -1,0 +1,12 @@
+{
+    "name": "Bot Template",
+    "version": "1.0.0",
+    "description": "A discord bot template created using the discord.py library",
+    "author": "Yukio Koito",
+    "img_url": null,
+    "contributors": ["insert name","in this funny","array as many as you want"],
+    "PREFIX": "!",
+    "TOKEN": "",
+    "bot_update_channel_id": 0,
+    "bot_owner_id": 0
+}
